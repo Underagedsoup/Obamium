@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+    <title>CMGT HTML CSS</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  
+  <body>
+    <h1>
+      CMGT
+    </h1>
+  
+    <p>
+      
+      "Ik heb zo hard op mijn computer geslagen dat die opnieuw opstart"
+    </p>
+    
+    -Ruben K 2020<br>
+    <div>
+      
+      
+    </div>
+    
+    <div>
+      <h2>
+        Les 1
+      </h2>
+      
+      <p>
+        Ja, mensen kunnen echt idiote dingen zeggen, maar jij kan anders zijn! <br> Klik <a href="https:/tim2.glitch.me" target="_blank_">hier</a>
+      </p>
+    </div>
+    
+    
+  <div:class"images">
+    <img src="https://cdn.glitch.com/88beecb8-f9ea-4b14-9fe2-63d1f42fc828%2Fmv83mbfoeg751.png?v=1631542459794">
+  Kutkat
+    </div>
+  
+</html>
