@@ -1,0 +1,21 @@
+body {
+  background-color:rgba(255,10,10);
+  font-size:18px;
+  font-family:Comic sans MS
+}
+h1{
+  margin-top:4px;
+}
+
+div {
+  display:block;
+  background-color:rgba(120,120,120,0.5);
+  padding:5px;
+  margin:20px;
+  color:rgb(22,22,66);
+  font-size:1.1em;
+  width:80%;
+}
+img {
+    width:100%
+  }
